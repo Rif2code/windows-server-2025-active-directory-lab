@@ -6,6 +6,6 @@
   2. Promoted server to Domain Controller
   3. Configured AD DS roles
   4. Created domain envrionment and users
-  5. applied group policies and security configurations
+  5. Applied group policies and security configurations
  
      
