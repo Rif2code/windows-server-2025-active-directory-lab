@@ -9,3 +9,7 @@
   5. Applied group policies and security configurations
  
      
+  ## Learning Outcomes
+  - Gained hands-on experience with enterprise-level identity management
+  - Learned how to configure and manage Active Directory envrionments
+  - Developed skills in user administration and enforcing security policies
