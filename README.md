@@ -14,7 +14,6 @@ This project demonstrates the setup and management of an Active Directory enviro
 - Configured Organizational Units (OUs)
 - Implemented Group Policies (password policies)
 - Assigned roles and delegated permissions
-- Managed group memberships and distrbution lists
 - Performed user account management (add/remove/reset passwords)
 
 ## Setup Process
